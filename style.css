@@ -1,0 +1,28 @@
+body
+{
+    padding: 10% ;
+}
+.role
+{
+    color: rgb(1, 22, 22);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0%;
+    padding:0%;
+}
+.timeline
+{
+    color: rgb(1, 22, 22)S;
+    font-family: cursive;
+    margin: 0%;
+    padding:0%;
+}
+h2
+{
+    padding: 0%;
+    background-color: rgba(70, 69, 69, 0.418);
+}
+h3
+{
+color: brown;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
